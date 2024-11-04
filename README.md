@@ -3,4 +3,4 @@
 Updated.
 new-feature
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-main branchで更新
+confilict branch で更新
