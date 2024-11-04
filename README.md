@@ -4,4 +4,5 @@ Updated.
 new-feature
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 GitHubじょうで更新
+<<<<<<< HEAD
 ローカルで更新
