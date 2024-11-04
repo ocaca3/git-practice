@@ -4,3 +4,4 @@ Updated.
 new-feature
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 GitHubじょうで更新
+コンフリクト発生！！
