@@ -6,3 +6,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 GitHubじょうで更新
 <<<<<<< HEAD
 ローカルで更新
+
+自分のリポジトリで更新
