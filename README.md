@@ -3,4 +3,4 @@
 Updated.
 new-feature
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-confilict branch で更新
+GitHubじょうで更新
